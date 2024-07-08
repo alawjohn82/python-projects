@@ -43,7 +43,7 @@ Check the destination folder (YYYYMMDD/filename) to verify file organization.
 STEPS:
 
 
-Sure, here's a concise and detailed description of your project that you can use during an interview:
+
 
 Project Title: Automating File Organization in AWS S3 with Python and Lambda Functions
 
