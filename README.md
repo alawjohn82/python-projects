@@ -78,6 +78,7 @@ Challenges and Solutions:
 
 Handling Permissions: Ensured that the Lambda function had the necessary permissions to read from and write to the S3 bucket by attaching an appropriate IAM role.
 Efficient File Handling: Used Python's boto3 library for efficient interaction with S3, ensuring the file operations were performed reliably.
+
 Outcome:
 The automation significantly reduced manual effort in organizing files, ensuring that they are systematically stored based on their creation date. This not only improved file management but also made it easier to locate files quickly.
 
