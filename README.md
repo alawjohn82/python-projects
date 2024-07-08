@@ -2,6 +2,8 @@
 
 
 Automating File Organization in AWS S3 using Lambda Functions
+
+
 Overview
 This project demonstrates how to automate file organization in an AWS S3 bucket using Python and Lambda Functions. The Lambda Function triggers whenever a new file is added to the S3 bucket, organizing it into folders based on the file's creation date.
 
